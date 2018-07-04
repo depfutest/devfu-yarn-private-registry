@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@privscope/priv-package@^1.0.0":
-  version "1.0.0"
-  resolved "http://devfu-registry.flowbyte.net/@privscope%2fpriv-package/-/priv-package-1.0.0.tgz#9953f9d9363d54949608c9d1d04d952e13513d7e"
+"@privscope/priv-package@^1.0.1":
+  version "1.0.1"
+  resolved "http://devfu-registry.flowbyte.net/@privscope%2fpriv-package/-/priv-package-1.0.1.tgz#60ce196d9733fcadd4e594e41ea1050701396cea"
 
 jquery@^2.1.2:
   version "2.2.4"
