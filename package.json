@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^2.1.2",
+    "jquery": "^3.7.1",
     "@privscope/priv-package": "^1.0.0"
   }
 }
